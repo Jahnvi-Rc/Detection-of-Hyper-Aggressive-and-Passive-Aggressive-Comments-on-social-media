@@ -1,0 +1,5 @@
+Random Forest CV,Random Forest TFIDF,Random Forest W2V
+10,10,10
+1,1,1
+False,False,False
+entropy,entropy,entropy
